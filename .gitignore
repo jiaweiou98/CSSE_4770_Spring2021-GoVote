@@ -1,0 +1,12 @@
+*.suo
+bin/
+obj/
+Debug/
+Release/
+.vs/
+DesignTimeBuild/
+*.user
+.vs/**
+Publish/
+FirestoreKey/
+EmailPassword/
